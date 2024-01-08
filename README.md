@@ -35,10 +35,10 @@ Make sure you have Go installed on your machine.
 
 1. Single domain:
     ```
-    ./0xSubBf -i name.txt -d google.com -o output.txt
+    0xSubBf -i name.txt -d google.com -o output.txt
 2. Multiple domains from a list:
     ```
-    ./0xSubBf -i name.txt -d domains.txt -o output.txt
+    0xSubBf -i name.txt -d domains.txt -o output.txt
 ### Options
 ```
 -d: Specify a single domain to check.
